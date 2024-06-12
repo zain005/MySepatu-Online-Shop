@@ -1,2 +1,7 @@
 # MySepatu-Online-Shop
-MySepatu is a local online shop that sells different types of shoe such as slippers, boots,  heels, sport shoes and etc.
+MySepatu is a local online shop that sells different types of shoe such as slippers, boots, heels, sport shoes and etc.  All the shoes display in MySepatu online website are categorised based on different shoe types, hence shoppers are able to search for the pair of shoe they like easily.  Each shoe type is different from the others in term of appearance or usage.
+Implemented functionalities:
+Customer should be able to choose at least two (2) or more different type of shoes
+Create a stack or queue using linked-list or array implementation to implementation  to simulate the shopping cart to keep list of shoes selected by a customer.  Hence, customer is allowed to add shoes, delete or change the details of selected items in the shopping cart before finalizing his or her orders
+Create one (1) or more lists using linked-list implementation to keep all the finalized shoes orders.  Once the customer has finalized their shopping cart, he/she will place an order and the finalized order will go into this finalized shoes order list (Final Order list).  The finalized order is not changeable or cancellable.  A receipt of the order will also be displayed
+Every finalized order should have an order ID and user is allowed to view the particular order by searching the order ID Your system should be able to display all the shoes in the Final Order list sorted in two (2) different views by Order ID and by Shoe Types.  You are free to choose any of the sorting techniques (Bubble, Selection, Insertion, Shell, Quick and Merge) to sort your summary report
